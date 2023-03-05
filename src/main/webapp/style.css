@@ -1,0 +1,16 @@
+body{
+	margin:0;
+	padding: 0;
+	background:url(nibm2.jpg);
+	background-size: cover;
+	
+}
+h1{
+	
+	font-size: 50px;
+	font-family:arial black;
+	color:#191970;
+}
+h2{
+	color:#000080;
+}
